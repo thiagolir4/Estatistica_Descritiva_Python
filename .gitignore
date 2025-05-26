@@ -1,0 +1,14 @@
+# Arquivos de sistema
+*.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+.ipynb_checkpoints/
+
+# Dados grandes (ajuste conforme necessário)
+**/ifood-restaurants-november-2020.csv
+**/*.xlsx
+**/*.csv
+
+# Git LFS já vai rastrear os CSVs grandes
