@@ -63,19 +63,19 @@ Neste projeto, foram analisados os seguintes conjuntos de dados:
 1.  **`analise_imoveis_sao_paulo.csv`**:
     * Descrição: Dataset contendo informações sobre imóveis na cidade de São Paulo.
     * Disponibilidade: O arquivo está incluído neste repositório.
-    * 🔗 **[Clique aqui para baixar o dataset analise_imoveis-sao_paulo.csv via Google Drive](LINK_DO_GOOGLE_DRIVE_IMOVEIS)** 
+    * 🔗 **[Clique aqui para baixar o dataset analise_imoveis-sao_paulo.csv via Google Drive](https://drive.google.com/file/d/1x027FpV6_Sb-Zzywjq9MjAhz1fIm6B_v/view?usp=sharing)** 
 2.  **`ifood-restaurants-november-2020.csv`**:
     * Descrição: Dataset com informações de restaurantes cadastrados no iFood em novembro de 2020.
     * Disponibilidade: Utilizado para algumas análises exploratórias. Não incluído diretamente no repositório.
-    * 🔗 **[Clique aqui para baixar o dataset ifood-restaurants-november-2020.csv via Google Drive](LINK_DO_GOOGLE_DRIVE_IFOOD_NOV2020)** 
+    * 🔗 **[Clique aqui para baixar o dataset ifood-restaurants-november-2020.csv via Google Drive](https://drive.google.com/file/d/1kWpRr7aCqHRcm-XbEHJcZmwnZOzzgdaD/view?usp=sharing)** 
 3.  **`ifood-restaurants-february-2021.csv`**:
     * Descrição: Dataset com informações de restaurantes cadastrados no iFood em fevereiro de 2021. Utilizado para cálculo de medidas de tendência central, dispersão, tratamento de outliers e análise de correlação.
     * Disponibilidade: Utilizado extensivamente para análises estatísticas.
-    * 🔗 **[Clique aqui para baixar o dataset ifood-restaurants-february-2021.csv via Google Drive](LINK_DO_GOOGLE_DRIVE_IFOOD_FEV2021)** 
+    * 🔗 **[Clique aqui para baixar o dataset ifood-restaurants-february-2021.csv via Google Drive](https://drive.google.com/file/d/1j0y3reGr-04r-Pc0e7VnGdl2a2l54zk5/view?usp=sharing)** 
 4.  **`base_ifood_limpa.csv`**:
     * Descrição: Dataset gerado após o processo de limpeza e tratamento de outliers do `ifood-restaurants-february-2021.csv`.
     * Disponibilidade: Pode ser gerado ao executar os scripts ou incluído no repositório.
-    * 🔗 **[Clique aqui para baixar o dataset ifood-restaurants-february-2021.csv via Google Drive](LINK_DO_BASE_IFOOD_LIMPA)**
+    * 🔗 **[Clique aqui para baixar o dataset ifood-restaurants-february-2021.csv via Google Drive](https://drive.google.com/file/d/1TCY6XilfZsR4fF8nPivepdEYlqva8esR/view?usp=sharing)**
 
 ---
 
